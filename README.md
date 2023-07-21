@@ -17,6 +17,11 @@ PCB front <br /><br />
 PCB back <br /><br />
 
 <br />
+<p align="center"> <img src="/Docs/PoolMasterIntegration.png" width="802" title="Overview"> </p>
+PoolMaster dashboard with pH_Orp_Board integrated<br /><br />
+
+
+<br />
 <p align="center"> <img src="/Docs/ADC_Test_pH_Board.jpg" width="802" title="Overview"> </p>
 Measured voltages of the two input channels using a 0.1Hz square wave input signal with various amplitudes over time. The two different channel gains are visible.
 Measurements were carried out using the basic sketch provided in this repository (see below). No averaging was used. <br /><br />
