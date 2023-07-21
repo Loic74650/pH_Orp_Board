@@ -19,8 +19,8 @@ PCB back <br /><br />
 <br />
 <p align="center"> <img src="/Docs/ADC_Test_pH_Board.jpg" width="802" title="Overview"> </p>
 Measured voltages of the two input channels using a 0.1Hz square wave input signal with various amplitudes over time. The two different channel gains are visible.
-Measurements were carring out using the basic sketch provided on this repository (see below). No averaging was used. <br /><br />
+Measurements were carried out using the basic sketch provided in this repository (see below). No averaging was used. <br /><br />
 
 <br />
 <p align="center"> <img src="/Docs/Sketch.jpg" width="802" title="Overview"> </p>
-Basic sketch provided on this repository to test the PCB. <br /><br />
+Basic sketch provided in this repository to test the PCB. <br /><br />
