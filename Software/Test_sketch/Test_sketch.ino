@@ -15,8 +15,8 @@ void setup() {
 void loop() {
 
   Serial.print(adc.convert(ADS1115_CHANNEL01,ADS1115_RANGE_6144));
-  Serial.print(",");
-  Serial.print(adc.convert(ADS1115_CHANNEL23,ADS1115_RANGE_6144));
+  //Serial.print(",");
+  //Serial.print(adc.convert(ADS1115_CHANNEL23,ADS1115_RANGE_6144));
   Serial.println();
   delay(10);
 }

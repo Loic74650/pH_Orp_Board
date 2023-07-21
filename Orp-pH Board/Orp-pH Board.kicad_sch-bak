@@ -687,6 +687,7 @@
     )
   )
 
+
   (junction (at 175.26 105.41) (diameter 0) (color 0 0 0 0)
     (uuid 00406129-9070-4856-8a17-40e6df26fd4b)
   )
@@ -2216,7 +2217,7 @@
     (in_bom yes) (on_board yes)
     (uuid 45c84a73-0a7c-498d-a9e7-0b26b789e568)
     (property "Reference" "R5" (id 0) (at 69.85 27.94 90))
-    (property "Value" "200K" (id 1) (at 69.85 30.48 90))
+    (property "Value" "350K" (id 1) (at 69.85 30.48 90))
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (id 2) (at 69.85 27.178 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2883,7 +2884,7 @@
       (reference "R4") (unit 1) (value "51K") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/45c84a73-0a7c-498d-a9e7-0b26b789e568"
-      (reference "R5") (unit 1) (value "200K") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "R5") (unit 1) (value "350K") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/6b8c19b9-2723-4a8d-8d60-35314a1c08ae"
       (reference "R6") (unit 1) (value "1M") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
