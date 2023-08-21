@@ -29,4 +29,5 @@ Measurements were carried out using the basic sketch provided in this repository
 
 <br />
 <p align="center"> <img src="/Docs/Sketch.jpg" width="802" title="Overview"> </p>
-Basic sketch provided in this repository to test the PCB. <br /><br />
+Basic sketch provided in this repository to test the PCB with this library: <br /><br />
+https://lygte-info.dk/project/ADS1115Library%20UK.html<br /><br />
