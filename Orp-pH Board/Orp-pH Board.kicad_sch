@@ -1688,7 +1688,7 @@
     (effects (font (size 3 3)) (justify left bottom))
     (uuid daa1fc0c-623d-491a-8897-ded0297c4c7a)
   )
-  (text "pH\ngain: 6.62\nrange: +/- 2048mV over 2.5V mid range\nrange pH: from 2.37 to 11.63\n\nOrp\ngain: 2.32\nrange Orp: +/- 1077mV"
+  (text "pH\ngain: 7.62\nrange: +/- 2048mV over 2.5V mid range\nrange pH: from 2.37 to 11.63\n\nOrp\ngain: 2.32\nrange Orp: +/- 1077mV"
     (at 179.07 58.42 0)
     (effects (font (size 3 3)) (justify left bottom))
     (uuid e4b445f1-0fcd-4444-b8d1-b5dfc4a6c4f9)
